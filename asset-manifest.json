@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CrudReact/static/css/main.a617e044.chunk.css",
+    "main.js": "/CrudReact/static/js/main.9b93f984.chunk.js",
+    "main.js.map": "/CrudReact/static/js/main.9b93f984.chunk.js.map",
+    "runtime-main.js": "/CrudReact/static/js/runtime-main.a6fdcb8d.js",
+    "runtime-main.js.map": "/CrudReact/static/js/runtime-main.a6fdcb8d.js.map",
+    "static/css/2.4be38407.chunk.css": "/CrudReact/static/css/2.4be38407.chunk.css",
+    "static/js/2.75ff306c.chunk.js": "/CrudReact/static/js/2.75ff306c.chunk.js",
+    "static/js/2.75ff306c.chunk.js.map": "/CrudReact/static/js/2.75ff306c.chunk.js.map",
+    "static/js/3.1a4d4d81.chunk.js": "/CrudReact/static/js/3.1a4d4d81.chunk.js",
+    "static/js/3.1a4d4d81.chunk.js.map": "/CrudReact/static/js/3.1a4d4d81.chunk.js.map",
+    "index.html": "/CrudReact/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/CrudReact/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/CrudReact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.75ff306c.chunk.js.LICENSE.txt": "/CrudReact/static/js/2.75ff306c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CrudReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6fdcb8d.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.75ff306c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9b93f984.chunk.js"
+  ]
+}
